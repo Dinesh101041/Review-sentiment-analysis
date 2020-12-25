@@ -1,5 +1,5 @@
 ## Movie Review sentiment analysis
-    This is a movie review sentiment analysis with a stanford IMDB sets done with a tutorial
+    This is a movie review sentiment analysis with a stanford IMDB dataset
    
 
 # Dependencies <br>
@@ -14,5 +14,6 @@
          
          
          
+               
     
     
